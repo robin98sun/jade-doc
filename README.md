@@ -1,7 +1,7 @@
 
 # Semantics of version number
 
-jade components will share the same version number: `<major>.<section 1>.<section 2>.<section 3>.<section 4>,<section 5>`
+jade components will share the same version number: `<major>.<section 1>.<section 2>.<section 3>.<section 4>,<section 5>,<section 6>,<section 7>`
 
 where:
 1. `<major>` denoting the release version number
@@ -10,6 +10,8 @@ where:
 4. `<section 3>` denoting the version number of `jade-ui`
 5. `<section 4>` denoting the version number of `jade-devops`
 6. `<section 5>` denoting the version number of `plankton`
+6. `<section 6>` denoting the version number of `jade-tests`
+6. `<section 7>` denoting the times of trying under current version
 
 # Bulid docker images
 
