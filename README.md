@@ -9,7 +9,7 @@ where:
 3. `<section 2>` denoting the version number of `jade-go`
 4. `<section 3>` denoting the version number of `jade-ui`
 5. `<section 4>` denoting the version number of `jade-devops`
-6. `<section 5>` denoting the version number of `plankton`
+6. `<section 5>` denoting the version number of `jade applications, e.g., plankton, temp-hum`
 6. `<section 6>` denoting the version number of `jade-tests`
 6. `<section 7>` denoting the times of trying under current version
 
