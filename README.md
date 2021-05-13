@@ -1,7 +1,7 @@
 
 # Semantics of version number
 
-jade components will share the same version number: `<major>.<section 1>.<section 2>.<section 3>.<section 4>,<section 5>,<section 6>,<section 7>`
+jade components will share the same version number: `<major>.<section 1>.<section 2>.<section 3>.<section 4>,<section 5>,<section 6>-<section 7>`
 
 where:
 1. `<major>` denoting the release version number
