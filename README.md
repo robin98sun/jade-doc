@@ -1,4 +1,4 @@
-This is the testing framework of the DSSP system, a Sensing as a Service system, in the paper "DSSP: A Distributed, SLO-aware, Sensing-domain-privacy-Preserving Architecture for Sensing-as-a-Service".
+This is the documentation of the DSSP system, a Sensing as a Service system, in the paper "DSSP: A Distributed, SLO-aware, Sensing-domain-privacy-Preserving Architecture for Sensing-as-a-Service".
 
 Please site the paper if using this codebase.
 
